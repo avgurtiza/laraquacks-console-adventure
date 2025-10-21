@@ -4,7 +4,7 @@ A simple text-based adventure game built with Laravel, featuring interactive roo
 
 ## Source
 
-This application was created as part of the [OpenSpec](https://github.com/laraquack/openspec) project, specifically implementing the console adventure game feature as defined in the specification at `openspec/changes/add-console-adventure-game/specs/console-adventure/spec.md`.
+This application was created as part of the Laraquack project and aims to teach devs silly ways to use Laravel.
 
 ## Purpose
 
@@ -52,8 +52,7 @@ The game world is defined in `storage/app/map.json` and includes:
 
 - PHP 8.1+
 - Laravel 12.x
-- Laravel Boost (dev dependency for AI-assisted development)
-
+s
 ## Development
 
 This project uses Laravel Boost for enhanced development experience with AI-powered coding assistance and guidelines.
