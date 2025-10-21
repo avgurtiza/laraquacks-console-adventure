@@ -19,13 +19,13 @@ The Console Adventure Game demonstrates:
 
 1. Ensure you have PHP and Composer installed
 2. Clone or navigate to the project directory
-3. Run `composer install` in the `src/` directory
+3. Run `composer install`
 4. Copy `.env.example` to `.env` and configure your environment
 5. Run `php artisan key:generate`
 
 ## Usage
 
-Navigate to the `src/` directory and run:
+Navigate to the project directory and run:
 
 ```bash
 php artisan game:play
