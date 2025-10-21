@@ -52,7 +52,7 @@ The game world is defined in `storage/app/map.json` and includes:
 
 - PHP 8.1+
 - Laravel 12.x
-s
+
 ## Development
 
 This project uses Laravel Boost for enhanced development experience with AI-powered coding assistance and guidelines.
